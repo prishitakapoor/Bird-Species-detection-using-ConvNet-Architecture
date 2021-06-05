@@ -235,15 +235,27 @@ The InceptionV3 model had a bad performance on the test set, and it seemed the m
 
 # Requirements
 Keras==2.4.3
+
 matplotlib==3.3.4
+
 notebook==6.2.0
+
 numpy==1.19.5
+
 pandas==1.2.3
+
 Pillow==8.1.2
+
 QtPy==1.9.0
+
 scikit-learn==0.24.1
+
 scipy==1.6.1
+
 seaborn==0.11.1
+
 six==1.15.0
+
 sklearn==0.0
+
 tensorflow-gpu==2.4.1
